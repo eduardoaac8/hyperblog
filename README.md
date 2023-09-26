@@ -6,3 +6,5 @@ EN ESTE CURSO VEMOS TODO
 -El flujo de trabajo en github.
 -El verdadero amor por las buenas practicas.
 -creado por el increible team platzi
+-incluye ejemplos en lynnux y mac
+-disponible para todas las edades 
