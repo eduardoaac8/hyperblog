@@ -5,4 +5,4 @@ EN ESTE CURSO VEMOS TODO
 -Todos los comandos de git.
 -El flujo de trabajo en github.
 -El verdadero amor por las buenas practicas.
--
+-creado por el increible team platzi
